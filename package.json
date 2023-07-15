@@ -1,0 +1,23 @@
+{
+  "name": "web-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeidongFang1985/Web-Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeidongFang1985/Web-Learning/issues"
+  },
+  "homepage": "https://github.com/WeidongFang1985/Web-Learning#readme",
+  "devDependencies": {
+    "prettier": "3.0.0"
+  }
+}
